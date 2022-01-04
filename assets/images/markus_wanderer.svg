@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 308.5 483.7" version="1.0">
+  <g id="layer2" transform="translate(-4.4574 -7.7431)">
+    <g id="g2830" transform="matrix(2.2154 0 0 2.2154 -669.94 -701.37)">
+      <path id="path2823" style="color:#000000" transform="matrix(1.0742 0 0 1.0588 -20.737 -18.769)" d="m366.4 335.07a15.035 15.035 0 1 1 -30.08 0 15.035 15.035 0 1 1 30.08 0z"/>
+      <path id="path2825" fill-rule="evenodd" d="m407.09 339.94l-19.87 6 10.16 35.15-11.1-19.43-12.94-8.78-23.59 15.74-11.56 33.29-33.78 20.84 7.87 12.94 5.06-3.25 28.22 56.47-8.78 44.84 18.5 2.78 4.19-15.72 10.62 17.6h6.03l1.85-5.1-14.35-30.09 3.22-16.66 24.07-24.5 6.93 19.44 30.1 55.97 15.72-6.94-30.07-81.44-0.47-23.12-3.71-22.66 15.75-4.62-18.07-58.75zm-48.56 61.97l14.35 22.21 0.46 6-19.43 33.79-5.1 10.18-23.12-46.28 23.12-8.31 9.72-17.59z"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>wanderer</dc:title>
+        <dc:date>2007-02-21T00:41:03</dc:date>
+        <dc:description>clip art, clipart, icon, icon, image, media, nature, nature, public domain, svg, wanderer, wanderer, </dc:description>
+        <dc:source>http://openclipart.org/detail/3276/wanderer-by-markus</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>markus</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>nature</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>svg</rdf:li>
+            <rdf:li>wanderer</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

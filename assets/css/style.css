@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #00050a;
+  color: #eeeeee;
+}
+h1 {
+  position: relative;
+  font-size: 6vw;
+  padding-left: 5vw;
+  font-weight: bold;
+  overflow: hidden;
+}
+
+h1 .box {
+  position: absolute;
+  background-color: cornflowerblue;
+  height: 1vw;
+  z-index: -1;
+  display: inline-block;
+  bottom: 0;
+  width: 0;
+  display: inline-block;
+}
+
+h1 .hi {
+  padding: 0 4px;
+  display: inline-block;
+}
